@@ -54,7 +54,7 @@ Knowledge:
 
 ### People Analytics Turnover:
 
-![PEOPLE1](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/bf8c2a70-3bf4-40d8-b8e2-f2ca9e37eaae)
+![PEOPLE1](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/37d71bdb-5a52-4cf9-adf5-9f5ab15a4c01)
 
 
 
