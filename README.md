@@ -16,6 +16,7 @@ Passionate about Analytics and Business
 👩🏻‍🎓 I'm currently specializing in an MBA in Business Intelligence: AI, Big Data, and Data Science at PUCRS.
 
 Conhecimentos:
+Knowledge:
 <div display = "inline">
  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
             
