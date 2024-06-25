@@ -41,7 +41,6 @@ Knowledge:
   </div>
 
 
-
  
  ### Você também me encontra em:
  ### You can also find me at:
@@ -51,4 +50,7 @@ Knowledge:
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a>
  
+### PROJETOS POWER BI:
+
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e7ced362-a25d-417a-bb45-858152be23c4)
 
