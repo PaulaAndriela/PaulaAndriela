@@ -73,9 +73,6 @@ Knowledge:
 
 
 PAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO/FINANCIAL FORECAST PANEL CUSTOMER GROUP:
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/282d97b8-0d52-4edb-8997-8d20470b06af)
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/77103208-806e-4989-836c-3f7efdf7b004)
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/30ecf21d-1751-4f82-8c60-bf5c456fe5fc)
 
 
 
