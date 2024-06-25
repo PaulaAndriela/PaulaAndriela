@@ -60,11 +60,18 @@ Knowledge:
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
-#### PROJETO DASBOARDO VENDAS - OPERAÇÃO DE CALL CENTER
+#### ACOMPANHAMENTO DE VENDAS - OPERAÇÃO DE CALL CENTER
 
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e6e243be-cdcb-42cb-a394-93713d84d13c)
 
-#### PROJETO DASBOARDO PRODUTIVIDADE OUTBOUND
+#### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
+
+### PANAINEL FORECAST FINANCEIRO X REALIZADO:
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/7f975ed6-3e29-4731-82fe-21c42035eba1)
+
+PANAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO:
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/38e49998-0694-4794-8b4a-f1df9b7a8f3a)
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/c007087d-9025-4158-bdba-8960c325f7ac)
 
 
