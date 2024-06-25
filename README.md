@@ -50,7 +50,14 @@ Knowledge:
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a>
  
-### PROJETOS POWER BI:
+### PROJETOS POWER BI
+
+###People Analytics Turnover:
 
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e7ced362-a25d-417a-bb45-858152be23c4)
+
+
+#### Controle e Gestão de Estoque(Inventory Control and Management):
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
+
 
