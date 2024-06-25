@@ -60,6 +60,12 @@ Knowledge:
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
+
+### PANAINEL FORECAST FINANCEIRO X REALIZADO:
+![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
+
+
+
 #### ACOMPANHAMENTO DE VENDAS - OPERAÇÃO DE CALL CENTER
 
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e6e243be-cdcb-42cb-a394-93713d84d13c)
@@ -67,8 +73,7 @@ Knowledge:
 #### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
 
-### PANAINEL FORECAST FINANCEIRO X REALIZADO:
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/7f975ed6-3e29-4731-82fe-21c42035eba1)
+
 
 PANAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/282d97b8-0d52-4edb-8997-8d20470b06af)
