@@ -60,4 +60,11 @@ Knowledge:
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
+#### PROJETO DASBOARDO VENDAS - OPERAÇÃO DE CALL CENTER
+
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e6e243be-cdcb-42cb-a394-93713d84d13c)
+
+#### PROJETO DASBOARDO PRODUTIVIDADE OUTBOUND
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
+
 
