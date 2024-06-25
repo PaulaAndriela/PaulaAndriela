@@ -52,7 +52,7 @@ Knowledge:
  
 ### PROJETOS POWER BI
 
-###People Analytics Turnover:
+### People Analytics Turnover:
 
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e7ced362-a25d-417a-bb45-858152be23c4)
 
