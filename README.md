@@ -71,7 +71,11 @@ Knowledge:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/7f975ed6-3e29-4731-82fe-21c42035eba1)
 
 PANAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO:
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/38e49998-0694-4794-8b4a-f1df9b7a8f3a)
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/c007087d-9025-4158-bdba-8960c325f7ac)
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/282d97b8-0d52-4edb-8997-8d20470b06af)
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/77103208-806e-4989-836c-3f7efdf7b004)
+![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/30ecf21d-1751-4f82-8c60-bf5c456fe5fc)
+
+
+
 
 
