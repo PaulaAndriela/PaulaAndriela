@@ -61,21 +61,18 @@ Knowledge:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
 
-### PANAINEL FORECAST FINANCEIRO X REALIZADO:
+### PAINEL FORECAST FINANCEIRO X REALIZADO/FINANCIAL FORECAST PANEL:
 ![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
 
-
-
-#### ACOMPANHAMENTO DE VENDAS - OPERAÇÃO DE CALL CENTER
+#### ACOMPANHAMENTO DE VENDAS - OPERAÇÃO DE CALL CENTER / SALES FOLLOW-UP - CALL CENTER OPERATION
 
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e6e243be-cdcb-42cb-a394-93713d84d13c)
 
-#### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND:
+#### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND/OUTBOUND PRODUCTIVITY DASHBOARD PROJECT:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
 
 
-
-PANAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO:
+PAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO/FINANCIAL FORECAST PANEL CUSTOMER GROUP:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/282d97b8-0d52-4edb-8997-8d20470b06af)
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/77103208-806e-4989-836c-3f7efdf7b004)
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/30ecf21d-1751-4f82-8c60-bf5c456fe5fc)
