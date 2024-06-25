@@ -5,6 +5,16 @@ Apaixonada por Análises e Negócios
 
 👩🏻‍🎓 Estou me especializando em MBA Inteligência de Negócios: IA, Big Data e Data Science pela PUCRS.
 
+--
+English
+
+### Hi 👋 I'm Paula Andriela :)
+Passionate about Analytics and Business
+
+👩🏻‍💻 Business Intelligence Analyst specialized in providing comprehensive business insights through BI, Data Science, dashboards, reports, and KPIs using simple language.
+
+👩🏻‍🎓 I'm currently specializing in an MBA in Business Intelligence: AI, Big Data, and Data Science at PUCRS.
+
 Conhecimentos:
 <div display = "inline">
  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -33,6 +43,7 @@ Conhecimentos:
 
  
  ### Você também me encontra em:
+ ### You can also find me at:
  
  
  <a href="https://www.linkedin.com/in/paula-andriela-luz-077713a7"> 
