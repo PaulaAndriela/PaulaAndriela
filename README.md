@@ -54,7 +54,8 @@ Knowledge:
 
 ### People Analytics Turnover:
 
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e7ced362-a25d-417a-bb45-858152be23c4)
+![PEOPLE1](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/bf8c2a70-3bf4-40d8-b8e2-f2ca9e37eaae)
+
 
 
 #### Controle e Gestão de Estoque(Inventory Control and Management):
