@@ -65,9 +65,10 @@ Knowledge:
 ### PAINEL FORECAST FINANCEIRO X REALIZADO/FINANCIAL FORECAST PANEL:
 ![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
 
-#### ACOMPANHAMENTO DE VENDAS - OPERAÇÃO DE CALL CENTER / SALES FOLLOW-UP - CALL CENTER OPERATION
+#### ACOMPANHAMENTO DE VENDAS / SALES FOLLOW-UP 
 
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/e6e243be-cdcb-42cb-a394-93713d84d13c)
+![dashvendas](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/1c074334-7497-46e3-8fe1-25107e5a4fb8)
+
 
 #### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND/OUTBOUND PRODUCTIVITY DASHBOARD PROJECT:
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
