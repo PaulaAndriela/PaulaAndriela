@@ -57,7 +57,6 @@ Knowledge:
 ![PEOPLE1](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/37d71bdb-5a52-4cf9-adf5-9f5ab15a4c01)
 
 
-
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
@@ -68,13 +67,6 @@ Knowledge:
 #### ACOMPANHAMENTO DE VENDAS / SALES FOLLOW-UP 
 
 ![dashvendas](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/1c074334-7497-46e3-8fe1-25107e5a4fb8)
-
-
-#### PROJETO DASHBOARDO PRODUTIVIDADE OUTBOUND/OUTBOUND PRODUCTIVITY DASHBOARD PROJECT:
-![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/85ca24e5-f27d-4167-a71b-4e00100dbb05)
-
-
-PAINEL FORECAST FINANCEIRO GRUPO DE CLIENTES X REALIZADO/FINANCIAL FORECAST PANEL CUSTOMER GROUP:
 
 
 
