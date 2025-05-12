@@ -98,6 +98,52 @@ Fornecer uma análise clara e acessível sobre o perfil da força de trabalho da
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
 
+🔹 Estrutura Visual
+Título Principal
+"PEOPLE" – Indica foco em dados de pessoas/colaboradores.
+
+Gráficos de Análise
+📌 1. Gráfico de Gênero por Área
+Tipo: Barras empilhadas horizontais
+
+Exibe a quantidade de homens e mulheres por área/departamento, facilitando a análise de equilíbrio de gênero em cada setor.
+
+📌 2. Gráfico de Tempo de Empresa por Área
+Tipo: Barras agrupadas
+
+Mostra a distribuição de tempo de casa dos colaboradores por área, útil para entender níveis de retenção e maturidade dos times.
+
+📌 3. Gráfico de Faixa Etária
+Tipo: Barras verticais (por faixa etária)
+
+Apresenta a distribuição etária da equipe, ajudando na análise de diversidade geracional e planejamento de sucessão.
+
+Filtros Laterais (Slicers)
+Permitem segmentar os dados por:
+
+Departamento / Área
+
+Tempo de empresa
+
+Faixa etária
+
+Gênero
+
+Esses filtros tornam o dashboard interativo, permitindo recortes específicos para tomadas de decisão mais precisas.
+
+🧠 Interpretação Estratégica
+Ajuda a identificar desequilíbrios de gênero por área.
+
+Fornece pistas sobre retenção e experiência dos colaboradores.
+
+Suporta ações de diversidade etária e desenvolvimento organizacional.
+
+✅ Resumo dos Benefícios
+Visual intuitivo e responsivo.
+
+Suporte a estratégias de diversidade, inclusão e retenção.
+
+Permite comparações rápidas entre áreas, faixas etárias e perfis de colaboradores.
 
 ### PAINEL FORECAST FINANCEIRO X REALIZADO/FINANCIAL FORECAST PANEL:
 ![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
