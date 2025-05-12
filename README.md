@@ -77,6 +77,12 @@ Este dashboard tem como propósito monitorar em tempo real o nível de estoque, 
 🎯 Objetivo do Painel
 Este dashboard tem como função principal apoiar a previsão de vendas ou demanda, comparando valores realizados com projetados, e permitindo ajustes estratégicos baseados em tendências, sazonalidades e variações por categoria.
 
+![image](https://github.com/user-attachments/assets/cc36ffd7-c1a9-4394-855c-fafb1bc1762e)
+![image](https://github.com/user-attachments/assets/70256871-adee-41ac-b74a-aa645ad9c41d)
+![image](https://github.com/user-attachments/assets/1298bfa1-0913-4d1b-835d-ecc5250b2185)
+
+
+
 ![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
 
 ##### ACOMPANHAMENTO DE VENDAS / SALES FOLLOW-UP 
