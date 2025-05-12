@@ -56,6 +56,44 @@ Knowledge:
 
 ![PEOPLE1](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/37d71bdb-5a52-4cf9-adf5-9f5ab15a4c01)
 
+🟦 Dashboard: PEOPLE1 - Análise de Pessoas
+Este dashboard apresenta uma visão consolidada de dados de recursos humanos, com foco em distribuição e comparação de colaboradores entre diferentes áreas e perfis. Ele está dividido em diferentes seções visuais, com cores padronizadas e visualmente equilibradas.
+
+🔹 Seções e Componentes Visuais
+Título:
+
+"PEOPLE1" no topo, sugerindo o nome do painel ou de uma iniciativa/projeto de pessoas.
+
+Indicadores Principais (Cards no topo):
+
+Total de Pessoas (Total People)
+
+Média de Idade (Average Age)
+
+Tempo Médio de Empresa (Average Time at Company)
+
+Percentual de Mulheres (Women %)
+
+Percentual de Homens (Men %)
+
+Esses KPIs fornecem uma visão rápida e geral do perfil da força de trabalho.
+
+Gráficos principais:
+
+Distribuição por Área (Barra Horizontal): Mostra a quantidade de pessoas por departamento ou área funcional.
+
+Distribuição Etária (Gráfico de Barras ou Colunas): Faixas etárias dos colaboradores.
+
+Gênero por Área (Empilhado ou Clustered): Comparativo entre homens e mulheres por departamento.
+
+Tempo de Empresa por Área: Média ou distribuição de tempo de permanência por setor.
+
+Segmentações e Filtros Laterais:
+
+Há filtros laterais ou menus interativos para permitir seleção por localização, unidade, ou outros critérios demográficos.
+
+🎯 Objetivo do Dashboard
+Fornecer uma análise clara e acessível sobre o perfil da força de trabalho da empresa, permitindo que líderes de RH ou gestores tomem decisões informadas sobre diversidade, retenção e alocação de talentos.
 
 #### Controle e Gestão de Estoque(Inventory Control and Management):
 ![image](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/fcf34afb-1be0-4417-a9f1-c7c56a9df65c)
