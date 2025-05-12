@@ -81,10 +81,6 @@ Este dashboard tem como função principal apoiar a previsão de vendas ou deman
 ![image](https://github.com/user-attachments/assets/70256871-adee-41ac-b74a-aa645ad9c41d)
 ![image](https://github.com/user-attachments/assets/1298bfa1-0913-4d1b-835d-ecc5250b2185)
 
-
-
-![forecast](https://github.com/PaulaAndriela/PaulaAndriela/assets/161093814/d89ed5f8-fce9-4305-acb6-0cb3ac4ed736)
-
 ##### ACOMPANHAMENTO DE VENDAS / SALES FOLLOW-UP 
 
 💰 Dashboard: Análise de Vendas
